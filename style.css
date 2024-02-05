@@ -1,0 +1,87 @@
+body{
+  background-color: #83c5be;
+  font-family: "Bodoni Moda", serif;
+}
+
+h1 {
+  font-family: "Bodoni Moda", serif;
+}
+
+p {
+  color:#006d77;
+  font-family: "Bodoni Moda", serif;
+}
+
+h1, h2 {
+  color:#006d77;
+  font-size: 32px;
+  font-weight: 700;
+}
+
+img{
+  width: 200px;
+  border-radius: 50%
+}
+
+.container {
+  width: 1500px;
+  margin: 0 auto;
+}
+
+.column1{
+  width: 725px;
+  float: left;
+  text-align: justify;
+  border-radius: 20px;
+}
+
+.column2{
+  width: 725px;
+  float: right;
+  text-align: center;
+  border-radius: 20px;
+}
+
+.card1 {
+  background-color: #edf6f9;
+  border-radius: 4px;
+  padding: 20px 50px;
+  padding-top: 146px;
+  padding-bottom: 146px;
+  margin: 20px 0;
+  text-align: center;
+}
+
+.card {
+  background-color: #edf6f9;
+  border-radius: 4px;
+  padding: 20px 50px;
+  margin: 20px 0;
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+ul li {
+  display: inline;
+  font-size: 32px;
+  color: #006d77;
+  margin-right: 10px;
+}
+
+ul li:hover {
+  color: #d8e2dc;
+}
+
+a {
+  color: #006d77;
+  border-radius: 3px;
+  text-decoration: none;
+  font-weight: 700;
+  font-family: "Roboto", sans-serif;
+  margin: 10px 0;
+  display: inline-block;
+}
